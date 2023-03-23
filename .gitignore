@@ -1,0 +1,6 @@
+.flatpak-builder
+*_source.tar*
+*.snap
+.buildconfig
+de.haeckerfelix.gradio.json~
+_build

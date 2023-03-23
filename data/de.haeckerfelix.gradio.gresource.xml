@@ -1,0 +1,26 @@
+<gresources>
+  <gresource prefix="/de/haecker-felix/gradio">
+	<file>de.haeckerfelix.gradio.style.css</file>
+	<file>ui/item/switch-item.ui</file>
+	<file>ui/item/button-item.ui</file>
+	<file>ui/page/library-page.ui</file>
+	<file>ui/page/search-page.ui</file>
+	<file>ui/page/collection-items-page.ui</file>
+	<file>ui/page/collections-page.ui</file>
+	<file>ui/page/settings-page.ui</file>
+	<file>ui/details-box.ui</file>
+	<file>ui/station-editor.ui</file>
+	<file>ui/groupbox.ui</file>
+	<file>ui/main-window.ui</file>
+	<file>ui/player-toolbar.ui</file>
+	<file>ui/status-icon.ui</file>
+	<file>ui/headerbar.ui</file>
+	<file>ui/selection-menu.ui</file>
+	<file>ui/selection-toolbar.ui</file>
+	<file>ui/organize-collection-popover.ui</file>
+	<file>ui/searchbar.ui</file>
+	<file>ui/menubutton.ui</file>
+	<file>ui/collection-row.ui</file>
+	<file>icons/hicolor/48x48/apps/de.haeckerfelix.gradio.png</file>
+  </gresource>
+</gresources>
